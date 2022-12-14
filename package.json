@@ -1,5 +1,5 @@
 {
-	"name": "madao",
+	"name": "madao-notifications",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
@@ -25,17 +25,17 @@
 		"prettier-plugin-svelte": "^2.7.0",
 		"svelte": "^3.44.0",
 		"svelte-check": "^2.7.1",
-		"svelte-preprocess": "^4.10.6",
+		"svelte-preprocess": "^5.0.0",
 		"tslib": "^2.3.1",
 		"typescript": "^4.7.4",
-		"vite": "^3.2.3"
+		"vite": "^4.0.1"
 	},
 	"type": "module",
 	"dependencies": {
-		"firebase": "^9.13.0",
-		"firebase-admin": "^11.2.0",
+		"firebase": "^9.15.0",
+		"firebase-admin": "^11.3.0",
 		"nodemailer": "^6.8.0",
-		"twilio": "^3.83.1",
+		"twilio": "^3.83.4",
 		"web-push": "^3.5.0"
 	}
 }
